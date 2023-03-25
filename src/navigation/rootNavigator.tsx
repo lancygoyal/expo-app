@@ -4,6 +4,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import Login from "../screens/Login";
 
 const Stack = createStackNavigator();
+
 const RootNavigator = () => {
   return (
     <NavigationContainer>
